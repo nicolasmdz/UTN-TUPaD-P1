@@ -84,7 +84,7 @@
 #         print("Por favor, ingrese un número positivo.")
 # else:
 #         # Calcular la suma usando la fórmula de suma de una secuencia
-#         suma = sum(range(numero + 1))  #range() genera una lista de numeros y sum()toma la lista y suma el valor total
+#         suma = sum(range(0,numero + 1))  #range() genera una lista de numeros y sum()toma la lista y suma el valor total
 #         print(f"La suma de los números entre 0 y {numero} es: {suma}")
 
 # # #ejercicio8
